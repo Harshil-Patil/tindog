@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu&display=swap');
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-top: 50px;
+}
+#find{
+    color: white;
+    font-family: 'Montserrat-Block', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0px auto 40px;
+}
+button{
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+@media(max-width:900px){
+    #find{
+        font-size: 2rem;
+    }
+}
+#footer{
+    text-align: center;
+    margin-top: 60px;
+}
+.favi{
+    font-size: 15pxpx;
+    margin: 5px;
+    margin-bottom: 10px;
+}
